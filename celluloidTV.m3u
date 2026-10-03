@@ -75,8 +75,6 @@ https://wdrlokalzeit.akamaized.net/hls/live/2018027/wdrlz_essen/index.m3u8
 https://wdrlokalzeit.akamaized.net/hls/live/2018024/wdrlz_duisburg/index.m3u8
 #EXTINF:-1,ARTE DE
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
-#EXTINF:-1,ARTE FR
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1,3Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1,kika
